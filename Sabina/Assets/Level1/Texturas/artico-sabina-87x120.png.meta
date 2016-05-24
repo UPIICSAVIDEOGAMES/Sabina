@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 26f19c3e422574ca99b06de514edc3fb
+timeCreated: 1464119815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: artico-sabina-87x120_0
+    21300002: artico-sabina-87x120_1
+    21300004: artico-sabina-87x120_2
+    21300006: artico-sabina-87x120_3
+    21300008: artico-sabina-87x120_4
+    21300010: artico-sabina-87x120_5
+    21300012: artico-sabina-87x120_6
+    21300014: artico-sabina-87x120_7
+    21300016: artico-sabina-87x120_8
+    21300018: artico-sabina-87x120_9
+    21300020: artico-sabina-87x120_10
+    21300022: artico-sabina-87x120_11
+    21300024: artico-sabina-87x120_12
+    21300026: artico-sabina-87x120_13
+    21300028: artico-sabina-87x120_14
+    21300030: artico-sabina-87x120_15
+    21300032: artico-sabina-87x120_16
+    21300034: artico-sabina-87x120_17
+    21300036: artico-sabina-87x120_18
+    21300038: artico-sabina-87x120_19
+    21300040: artico-sabina-87x120_20
+    21300042: artico-sabina-87x120_21
+    21300044: artico-sabina-87x120_22
+    21300046: artico-sabina-87x120_23
+    21300048: artico-sabina-87x120_24
+    21300050: artico-sabina-87x120_25
+    21300052: artico-sabina-87x120_26
+    21300054: artico-sabina-87x120_27
+    21300056: artico-sabina-87x120_28
+    21300058: artico-sabina-87x120_29
+    21300060: artico-sabina-87x120_30
+    21300062: artico-sabina-87x120_31
+    21300064: artico-sabina-87x120_32
+    21300066: artico-sabina-87x120_33
+    21300068: artico-sabina-87x120_34
+    21300070: artico-sabina-87x120_35
+    21300072: artico-sabina-87x120_36
+    21300074: artico-sabina-87x120_37
+    21300076: artico-sabina-87x120_38
+    21300078: artico-sabina-87x120_39
+    21300080: artico-sabina-87x120_40
+    21300082: artico-sabina-87x120_41
+    21300084: artico-sabina-87x120_42
+    21300086: artico-sabina-87x120_43
+    21300088: artico-sabina-87x120_44
+    21300090: artico-sabina-87x120_45
+    21300092: artico-sabina-87x120_46
+    21300094: artico-sabina-87x120_47
+    21300096: artico-sabina-87x120_48
+    21300098: artico-sabina-87x120_49
+    21300100: artico-sabina-87x120_50
+    21300102: artico-sabina-87x120_51
+    21300104: artico-sabina-87x120_52
+    21300106: artico-sabina-87x120_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: artico-sabina-87x120_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 54}
+        - {x: -25.5, y: -3}
+        - {x: -17.5, y: -54}
+        - {x: 15.5, y: -54}
+        - {x: 25.5, y: -42}
+        - {x: 25.5, y: 54}
+    - name: artico-sabina-87x120_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 126
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 54}
+        - {x: -33, y: 31}
+        - {x: -36, y: 26}
+        - {x: -36, y: -52}
+        - {x: -33, y: -54}
+        - {x: 36, y: -54}
+        - {x: 36, y: 43}
+        - {x: 33, y: 54}
+    - name: artico-sabina-87x120_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 126
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 52.5}
+        - {x: -25.5, y: 48.5}
+        - {x: -25.5, y: -48.5}
+        - {x: -24.5, y: -52.5}
+        - {x: 10.5, y: -52.5}
+        - {x: 25.5, y: -12.5}
+        - {x: 25.5, y: 43.5}
+        - {x: 23.5, y: 52.5}
+    - name: artico-sabina-87x120_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 126
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 52.5}
+        - {x: -31.5, y: 51.5}
+        - {x: -31.5, y: -52.5}
+        - {x: 31.5, y: -52.5}
+        - {x: 31.5, y: 40.5}
+        - {x: 25.5, y: 52.5}
+    - name: artico-sabina-87x120_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 126
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 54}
+        - {x: -20.5, y: 52}
+        - {x: -28.5, y: 41}
+        - {x: -37.5, y: 15}
+        - {x: -37.5, y: -44}
+        - {x: -12.5, y: -54}
+        - {x: 37.5, y: -54}
+        - {x: 37.5, y: 44}
+        - {x: 26.5, y: 54}
+    - name: artico-sabina-87x120_5
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 126
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52.5}
+        - {x: -25.5, y: -52.5}
+        - {x: 16.5, y: -52.5}
+        - {x: 25.5, y: -27.5}
+        - {x: 25.5, y: 44.5}
+        - {x: 22.5, y: 52.5}
+    - name: artico-sabina-87x120_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 126
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 52.5}
+        - {x: -19, y: 52.5}
+        - {x: -30, y: 50.5}
+        - {x: -30, y: -52.5}
+        - {x: -7, y: -52.5}
+        - {x: -7, y: -49.5}
+        - {x: 30, y: -45.5}
+        - {x: 30, y: 44.5}
+    - name: artico-sabina-87x120_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 177
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_9
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 183
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 177
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_16
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 154
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_17
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_18
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_20
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_21
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 45}
+        - {x: -31, y: 36}
+        - {x: -42, y: -16}
+        - {x: -42, y: -45}
+        - {x: 35, y: -45}
+        - {x: 42, y: -44}
+        - {x: 42, y: 30}
+        - {x: 40, y: 45}
+    - name: artico-sabina-87x120_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 1.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 20.5, y: -7.5}
+        - {x: 25.5, y: -0.5}
+        - {x: 25.5, y: 42.5}
+        - {x: 21.5, y: 52.5}
+        - {x: -19.5, y: 52.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -25.5, y: -48.5}
+        - {x: -17.5, y: -52.5}
+        - {x: -0.5, y: -52.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 12.5, y: -4.5}
+        - {x: 10.5, y: -2.5}
+    - name: artico-sabina-87x120_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 43.5}
+        - {x: -31.5, y: 37.5}
+        - {x: -31.5, y: -43.5}
+        - {x: 28.5, y: -43.5}
+        - {x: 31.5, y: -39.5}
+        - {x: 31.5, y: 43.5}
+    - name: artico-sabina-87x120_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 39}
+        - {x: -33, y: 12}
+        - {x: -33, y: -39}
+        - {x: 14, y: -39}
+        - {x: 33, y: -16}
+        - {x: 33, y: 33}
+        - {x: 31, y: 39}
+    - name: artico-sabina-87x120_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 6
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -9.5}
+        - {x: 18, y: 43.5}
+        - {x: -16, y: 43.5}
+        - {x: -21, y: 42.5}
+        - {x: -33, y: 36.5}
+        - {x: -33, y: -38.5}
+        - {x: -27, y: -43.5}
+        - {x: 33, y: -43.5}
+        - {x: 33, y: -17.5}
+        - {x: 20, y: -16.5}
+    - name: artico-sabina-87x120_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 6
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -9.5}
+        - {x: 18, y: 43.5}
+        - {x: -16, y: 43.5}
+        - {x: -21, y: 42.5}
+        - {x: -33, y: 36.5}
+        - {x: -33, y: -38.5}
+        - {x: -27, y: -43.5}
+        - {x: 33, y: -43.5}
+        - {x: 33, y: -17.5}
+        - {x: 20, y: -16.5}
+    - name: artico-sabina-87x120_28
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 78
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_31
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_32
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_34
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 78
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_35
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_36
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 43
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_39
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_41
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 49
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_42
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_43
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 49
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_44
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_45
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 43
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_46
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 20
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 20
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_48
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_49
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 20
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_50
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 20
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_51
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 20
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_52
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 20
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: artico-sabina-87x120_53
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 20
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

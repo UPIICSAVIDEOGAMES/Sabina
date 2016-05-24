@@ -1,0 +1,17 @@
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/sergio/Sabina/Sabina/obj/Debug/Assembly-CSharp.dll
+/Users/sergio/Sabina/Sabina/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/UnityEngine.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/UnityEditor.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sergio/Sabina/Sabina/Temp/bin/Debug/Mono.Cecil.Mdb.dll
